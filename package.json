@@ -1,0 +1,14 @@
+{
+  "name": "hoangdz-api-render",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "@fastify/cors": "^8.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
